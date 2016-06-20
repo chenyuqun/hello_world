@@ -1,3 +1,3 @@
 # hello_world
-Github is fun!
-A new start
+-Github is fun!
+-A new start
